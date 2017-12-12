@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">NightsOut</string>
+    <string name="ptUser">Utilizator</string>
+    <string name="ptPassword">Parola</string>
+    <string name="btnLogIn">Autentificare</string>
+    <string name="btnNewUser">Cont Nou</string>
+    <string name="tvLastName">Nume</string>
+    <string name="tvFirstName">Prenume</string>
+    <string name="tvUserName">Nume Utilizator</string>
+    <string name="tvMail">E-mail</string>
+    <string name="tvPasswordProfile">Parola</string>
+    <string name="tvPasswordProfile2">Rescrie-ti parola</string>
+    <string name="btnCreateAccount">Creaza cont</string>
+    <string name="btnBestLoc">Top localuri</string>
+    <string name="btnAddLoc">Adauga un local</string>
+    <string name="btnSearchLoc">Cauta un local</string>
+    <string name="btnPopularLoc">Cele mai populare</string>
+    <string name="tvUpload">Upload</string>
+    <string name="tvLocName">Denumire</string>
+    <string name="tvAddress">Adresa local</string>
+    <string name="tvAddStreet">Strada</string>
+    <string name="tvAddDistrict">Sector</string>
+    <string name="tvAddNumber">Numar</string>
+    <string-array name="vectdistrict">
+        <item>Toate</item>
+        <item>Sector 1</item>
+        <item>Sector 2</item>
+        <item>Sector 3</item>
+        <item>Sector 4</item>
+        <item>Sector 5</item>
+        <item>Sector 6</item>
+    </string-array>
+
+    <string name="tvSite">Site</string>
+    <string name="tvDescription">Descriere</string>
+    <string name="tvCategory">Categorie</string>
+    <string name="cbRestaurant">Restaurant</string>
+    <string name="cbTerasa">Tesara</string>
+    <string name="cbClub">Club</string>
+    <string name="cbPub">Pub</string>
+    <string name="btnAddNewLoc">Adauga</string>
+    <string name="tvLocalNameList">Denumire</string>
+    <string name="tvLocalTypeList">Categorie</string>
+    <string name="tvZona">Zona</string>
+    <string name="tvSort">Sorteaza</string>
+
+    <string-array name="vectcategory">
+        <item>Toate</item>
+        <item>Restaurant</item>
+        <item>Terasa</item>
+        <item>Club</item>
+        <item>Pub</item>
+    </string-array>
+    <string name="btnAlphabetic">Alfabetic</string>
+    <string name="tvRecenzii">Nota</string>
+    <string name="btnAddRec">Adauga</string>
+    <string name="tvMyReview">Recenzia mea</string>
+    <string name="tvRecenz">Recenzii</string>
+    <string name="btnAbout">Despre</string>
+    <string name="tvAbout">Descrierea aplicatiei NightsOut.</string>
+    <string name="tvAbout2">Continuarea descrierii aplicatiei</string>
+    <string name="btnMoreLocals">MAI MULTE</string>
+</resources>
+

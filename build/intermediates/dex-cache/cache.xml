@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ebb7c25c2147a79ca6f0c74e898bdc38152ffbba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a5b9b5ada1c8f97923ee882b3ab30a4f92ae6cc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_494c7ca291a8f2e203a126c8ccdefcb404e4b09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b2139edbdd8097562201635fa11fe9d467f6f5b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9e44e2a4a82a58ebf089d2ff711a364aeb5e0e3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d55e1ffa36c3020924cc82f4830a7029d0e88432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_855b67c80c5fd5b474f1fc25ce66068fcc8da1b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3807b85d52e85889def16635e2e87fe13672e0f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_914e40d5d183882312dd41b509792fe8e360c13b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Madalina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_219e618f99034bc02035afea305b3f8861119946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e85feeb3cc64eb785a47dea93eaefd63f7296409">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5bf87d19501ca7967fcf42c7cd7841164e6a2b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1036d426da7555433175563fa4b1c665f1cee71a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2475922708797f3599cefeab95a79ed822096820">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7baa6a7d14614dfff6dd336880b904d8c82afb24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cdbe629028eb23dd5fec684eefde702e622646e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7c353f0322b0213f81ebc9b5f2d57a6c4098d460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6e0fc659be68be39e79a5959ea3b726a771f0273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_56b2f695ce8846c42626cac10b65467948fe185b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c63e99492986bc0cc48e62d51e1851755a89373c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_97abde6a7f878dbf60c4bb4109d5919eb0a52949\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_192daa5b42ffa440f8e60e2da3f5973474de0f57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1af1c4a97b5a63aa40635e2cc752e99d23ae6e5c">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c30aeb81e5d34d75d197f0e8ac373a27a991c93b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_160f1168977daf9752b85889499044f3792a382a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fa11e90ae2ba0d4e9d834bb660709090d8b9569e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9d0586bb4d76b55725209721e2d8b18932f1bb2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_499841d44758338e27c448fef705fcc57e6fc91a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0ec3117632a9733ac184bdaed78f2a64aa846883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e01ab6a6c98c8a24bd46b41d9e7971a237cfe539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bdfdccccda93f5454c28a95c50a5bca859fe4e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6cd2f5c46138d58fd2f393dcefb29e8c3191e648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_46a2b700e703401981d9236f61cdf428ffc97866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect F2\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6f5f90dca1954bf31747d69f53cc466810b4f658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e1f94a99354d0cb555e7466bae419d5bea75ac2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c4b8357eee486215a9bff7b215f44953340cb75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Facultate\an 3, sem 1\Android\Proiect Faza1\Proiect\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a5117a1577ba96dad0938de82ec1650155397f49\classes.dex" />
+    </item>
+
+</items>
